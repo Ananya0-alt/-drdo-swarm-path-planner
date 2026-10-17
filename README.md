@@ -1,6 +1,6 @@
 # 🛰️ DRDO Drone Swarm Path Planner
 
-🚀 **Live App:** Coming soon (will deploy next)
+🚀 **Live App:** 🚀 Live App: https://yqym6kgdxjk8pe3qqnt8al.streamlit.app
 📁 **For DRDO Internship - UAV Swarm Intelligence**
 
 ### Overview
